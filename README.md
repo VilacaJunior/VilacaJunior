@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, me chamo Fábio  
 
-<!--
-**VilacaJunior/VilacaJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 19 anos | Estudante de **Ciências Econômicas** pela **Universidade Federal de Goiás (UFG)**  
+💻 Atualmente estudando **Python**, com foco em **Análise de Dados**  
+🔮 Futuro interesse em **Machine Learning** e **Deep Learning**  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 💼 Interesses profissionais
+- **Corporate Finance** (Finanças Corporativas)  
+- **FP&A** (Financial Planning & Analysis)  
+- Aplicações de **Programação** e **Análise de Dados** em Finanças  
+
+
+
+## 📂 O que você vai encontrar aqui
+- Projetos e estudos em **Corporate Finance**  
+- Análises e automações em **Python**  
+- Repositórios criativos de temas variados que despertam meu interesse  
+
+
