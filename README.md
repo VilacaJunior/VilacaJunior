@@ -1,8 +1,8 @@
 # 👋 Olá, me chamo Fábio  
 
-🎓 19 anos | Estudante de **Ciências Econômicas** pela **Universidade Federal de Goiás (UFG)**  
+🎓 20 anos | Estudante de **Ciências Econômicas** pela **Universidade Federal de Goiás (UFG)**  
 💻 Atualmente estudando **Python**, com foco em **Análise de Dados**  
-🔮 Futuro interesse em **Machine Learning** e **Deep Learning**  
+🔮 Futuro interesse em **Machine Learning** e **Modelos Probabilísticos**  
 
 <div>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -10,13 +10,13 @@
 
 
 ## 💼 Interesses profissionais
-- **Corporate Finance** (Finanças Corporativas)  
-- **FP&A** (Financial Planning & Analysis)  
+- **Corporate Development** (Desenvolvimento Corporativo)  
+- **Viabilidade Econômica** (Viabilidade Financeira e Projeção de Cenários)  
 - Aplicações de **Programação** e **Análise de Dados** em Finanças  
 
 
 ## 📂 O que você vai encontrar aqui
-- Projetos e estudos em **Corporate Finance**  
+- Projetos e estudos em **Economia**  
 - Análises e automações em **Python**  
 - Repositórios criativos de temas variados que despertam meu interesse  
 
